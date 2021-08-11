@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**nethergrim/nethergrim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://github.com/nethergrim/nethergrim/blob/main/images/photo.png?raw=true)
 
-Here are some ideas to get you started:
+Full stack mobile engineer with 9 years of experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Passionate about building quality products and want to own product development end-to-end leading with the right design and development principles.
+
+I'm a problem solver and like to challenge myself with building the right scalable and high-performing applications.
+
+I have experience working closely with third-party vendors, engineering teams and business stakeholders to understand the use cases and build end-to-end solutions.
+
+2020 till now: EPAM Systems, Lead Software Engineer (react-native, android)     
+2019 till 2020: Agile Engine, Lead Software Engineer (react-native)    
+2017 till 2019: EPAM Systems, Senior Software Engineer (android)    
+2016 till 2017: Mobile Strategy, Android developer/team lead    
+2013 till 2016: AppliKey Solutions, Android developer
