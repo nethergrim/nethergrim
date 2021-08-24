@@ -2,7 +2,7 @@
 
 <!-- <img src="https://github.com/nethergrim/nethergrim/blob/main/images/photo.jpeg?raw=true" alt="photo" width="350"/> -->
 
-[![Social banner for nethergrim](https://github.com/nethergrim/nethergrim/blob/main/images/header.svg)]
+![Social banner for nethergrim](https://github.com/nethergrim/nethergrim/blob/main/images/header.svg)
 
 I'm Andrii, full stack mobile engineer with 9 years of experience.
 
