@@ -1,10 +1,12 @@
-### Hi there 👋
-
 <!-- <img src="https://github.com/nethergrim/nethergrim/blob/main/images/photo.jpeg?raw=true" alt="photo" width="350"/> -->
 
 ![Social banner for nethergrim](https://github.com/nethergrim/nethergrim/blob/main/images/header.svg)
 
-I'm Andrii, full stack mobile engineer with 9 years of experience.
+<h1 align='center'> Hi! :wave:</h1>
+<p align='center'>
+I'm Andrii.
+</p>
+<p align='center'>Full stack mobile engineer with 9 years of experience.</p>
 
 ---
 
