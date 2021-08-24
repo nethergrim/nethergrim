@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![](https://github.com/nethergrim/nethergrim/blob/main/images/photo.jpeg?raw=true)
+<img src="https://github.com/nethergrim/nethergrim/blob/main/images/photo.jpeg?raw=true" alt="photo" width="350"/>
 
-Full stack mobile engineer with 9 years of experience.
+I'm Andrii, full stack mobile engineer with 9 years of experience.
 
 ---
 
