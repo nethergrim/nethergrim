@@ -8,16 +8,12 @@ I'm Andrii.
 </p>
 <p align='center'>Full stack mobile engineer with 9 years of experience.</p>
 
----
-
 <p align='center'>
 <a href="https://twitter.com/AndriiDrobiazko"><img height="30" src="https://github.com/nethergrim/nethergrim/blob/main/images/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/andrii_drobiazko/"><img height="30" src="https://github.com/nethergrim/nethergrim/blob/main/images/instagram.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/nethergrim/"><img height="30" src="https://github.com/nethergrim/nethergrim/blob/main/images/linkedin.png?raw=true"></a>
 <a href="https://join.skype.com/invite/bne78pRR28GF"><img height="30" src="https://github.com/nethergrim/nethergrim/blob/main/images/skype.png?raw=true"></a>
 </p>
-
----
 
 Passionate about building quality products and want to own product development end-to-end leading with the right design and development principles.
 
