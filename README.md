@@ -1,6 +1,6 @@
 <!-- <img src="https://github.com/nethergrim/nethergrim/blob/main/images/photo.jpeg?raw=true" alt="photo" width="350"/> -->
 
-![Social banner for nethergrim](https://github.com/nethergrim/nethergrim/blob/main/images/header.svg)
+![Social banner for nethergrim](https://github.com/nethergrim/nethergrim/blob/main/images/header.jpg)
 
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
