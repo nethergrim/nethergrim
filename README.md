@@ -24,6 +24,6 @@ I have experience working closely with third-party vendors, engineering teams an
 
 2020 till now: EPAM Systems, Chief Software Engineer (react-native, android)  
 2019 till 2020: Agile Engine, Lead Software Engineer (react-native)  
-2017 till 2019: EPAM Systems, Senior Software Engineer (android)  
-2016 till 2017: Mobile Strategy, Android developer/team lead  
-2013 till 2016: AppliKey Solutions, Android developer
+2017 till 2019: EPAM Systems, Senior Software Engineer (android, flutter)  
+2016 till 2017: Mobile Strategy, Android developer/team lead (android, ios)
+2013 till 2016: AppliKey Solutions, Android developer (android, ios)
