@@ -22,7 +22,7 @@ I have experience working closely with third-party vendors, engineering teams an
 
 #### Employment History
 
-2020 till now: EPAM Systems, Lead Software Engineer (react-native, android)  
+2020 till now: EPAM Systems, Chief Software Engineer (react-native, android)  
 2019 till 2020: Agile Engine, Lead Software Engineer (react-native)  
 2017 till 2019: EPAM Systems, Senior Software Engineer (android)  
 2016 till 2017: Mobile Strategy, Android developer/team lead  
