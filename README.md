@@ -5,7 +5,7 @@
 <p align='center'>
 I'm Andrii.
 </p>
-<p align='center'>Full stack mobile engineer with 9 years of experience.</p>
+<p align='center'>Full stack mobile engineer</p>
 
 <p align='center'>
 <a href="https://twitter.com/AndriiDrobiazko"><img height="30" src="https://github.com/nethergrim/nethergrim/blob/main/images/twitter.png?raw=true"></a>&nbsp;&nbsp;
@@ -14,16 +14,15 @@ I'm Andrii.
 <a href="https://join.skype.com/invite/bne78pRR28GF"><img height="30" src="https://github.com/nethergrim/nethergrim/blob/main/images/skype.png?raw=true"></a>
 </p>
 
-Passionate about building quality products and want to own product development end-to-end leading with the right design and development principles.
+8+ years within IT and Mobile development.
+Multiple years of team-leading experience.
 
-I'm a problem solver and like to challenge myself with building the right scalable and high-performing applications.
-
-I have experience working closely with third-party vendors, engineering teams and business stakeholders to understand the use cases and build end-to-end solutions.
-
-#### Employment History
-
-2020 till now: EPAM Systems, Chief Software Engineer (react-native, android)  
-2019 till 2020: Agile Engine, Lead Software Engineer (react-native)  
-2017 till 2019: EPAM Systems, Senior Software Engineer (android, flutter)  
-2016 till 2017: Mobile Strategy, Android developer/team lead (android, ios)
-2013 till 2016: AppliKey Solutions, Android developer (android, ios)
+- Have experience in the full development cycle - from idea to release and support
+- Have managed a unit of 10 people
+- Great product sense — I care about usability and good design
+- Solid expertise in Technology consulting, Pre-sales support
+- Leadership experience with a cross-functional team collaboration
+- Performance mad, automation geek, CI/CD pipelines creator
+- Strong experience in mobile development: React-Native, iOS, Android
+- Intermediate experience in ReactJS, CSS, HTML, styled-components
+- Assessment expert, Certified Technical Interviewer, Anywhere Skill Advisor
