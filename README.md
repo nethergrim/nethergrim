@@ -22,6 +22,7 @@ Multiple years of team-leading experience.
 - Great product sense — I care about usability and good design
 - Solid expertise in Technology consulting, Pre-sales support
 - Leadership experience with a cross-functional team collaboration
+- Unique combination of native (ios, android) and hybrid native (react-native) development expertise
 - Performance mad, automation geek, CI/CD pipelines creator
 - Strong experience in mobile development: React-Native, iOS, Android
 - Intermediate experience in ReactJS, CSS, HTML, styled-components
