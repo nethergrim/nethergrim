@@ -14,7 +14,7 @@ I'm Andrii.
 <a href="https://join.skype.com/invite/bne78pRR28GF"><img height="30" src="https://github.com/nethergrim/nethergrim/blob/main/images/skype.png?raw=true"></a>
 </p>
 
-8+ years within IT and Mobile development.
+9+ years within IT and Mobile development.
 Multiple years of team-leading experience.
 
 - Have experience in the full development cycle - from idea to release and support
