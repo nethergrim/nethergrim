@@ -5,8 +5,8 @@
 <p align='center'>
 I'm Andrii.
 </p>
-<p align='center'>Full stack mobile engineer</p>
-
+<p align='center'>Expert Mobile Developer</p>
+<p align='center'>I mostly do react-native, ios and android app development</p>
 <p align='center'>
 <a href="https://twitter.com/AndriiDrobiazko"><img height="30" src="https://github.com/nethergrim/nethergrim/blob/main/images/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/andrii_drobiazko/"><img height="30" src="https://github.com/nethergrim/nethergrim/blob/main/images/instagram.png?raw=true"></a>&nbsp;&nbsp;
