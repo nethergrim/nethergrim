@@ -14,16 +14,10 @@ I'm Andrii.
 <a href="https://join.skype.com/invite/bne78pRR28GF"><img height="30" src="https://github.com/nethergrim/nethergrim/blob/main/images/skype.png?raw=true"></a>
 </p>
 
-9+ years within IT and Mobile development.
-Multiple years of team-leading experience.
+With a decade of experience in IT and mobile development, I am a seasoned professional specializing in driving technology excellence for various projects. As a hands-on technical expert, I am deeply involved in coding and solving complex technical problems on a daily basis. My experience spans across multiple technologies, business domains, technology stacks, and frameworks, making me a versatile and valuable asset to any team.
 
-- Have experience in the full development cycle - from idea to release and support
-- Have managed a unit of 10 people
-- Great product sense — I care about usability and good design
-- Solid expertise in Technology consulting, Pre-sales support
-- Leadership experience with a cross-functional team collaboration
-- Unique combination of native (ios, android) and hybrid native (react-native) development expertise
-- Performance mad, automation geek, CI/CD pipelines creator
-- Strong experience in mobile development: React-Native, iOS, Android
-- Intermediate experience in ReactJS, CSS, HTML, styled-components
-- Assessment expert, Certified Technical Interviewer, Anywhere Skill Advisor
+My expertise includes technology consulting, pre-sales support, and leading cross-functional teams in various initiatives and efforts at the client's side. I possess a unique combination of native (iOS, Android) and hybrid native (React-Native) development skills, along with intermediate experience in ReactJS, CSS, HTML, and styled-components.
+
+As a performance-driven and automation-focused developer, I am passionate about creating CI/CD pipelines and am an enthusiast of Fastlane. My strong background in mobile development (React-Native, iOS, Android) and experience as a certified technical interviewer and Anywhere Skill Advisor make me a well-rounded professional in the industry.
+
+My journey in programming began at the age of 6 when I was fascinated by my mother's books on software engineering, leading me to explore the world of coding despite the limitations of my computer. My curiosity grew as I discovered the potential of improving game servers while playing World of Warcraft on private servers. This passion for understanding and creating software ultimately led me to my current profession in software engineering, where I am proud to contribute my skills and expertise to the industry.
